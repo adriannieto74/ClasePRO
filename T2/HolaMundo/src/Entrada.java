@@ -5,7 +5,7 @@ public class Entrada {
     // mod_acceso mod_pertenecia retorno nombre(parametros){}
     // esta linea es nueva porque la necesito
     String cosaComun = "Esta cosa es comun a los dos metodos";
-
+//dsgdfgd
     /**
      * @param args
      * @return
